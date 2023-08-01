@@ -1,0 +1,2 @@
+- [The NTLM Authentication Protocol and Security Support Provider](https://davenport.sourceforge.net/ntlm.html)
+- [go-ntlmssp](https://github.com/Azure/go-ntlmssp)
